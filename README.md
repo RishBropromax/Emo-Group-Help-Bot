@@ -1,5 +1,5 @@
 # Emo-Group-Help-Bot
- <h3>This is powerfull Group help Bot In Telegram. <br>
+This is powerfull Group help Bot In Telegram. <br>
 
 <p align="center"><a href="https://github.com/RishBropromax/Telegraph-Bot"><img src="https://telegra.ph/file/291580b1fd92d9551be3e.jpg" width="800"></a></p>
 
