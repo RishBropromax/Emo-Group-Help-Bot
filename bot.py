@@ -21,11 +21,11 @@ START_BTN = [
             ],
             [
                 InlineKeyboardButton(' SUPPORT', url='https://t.me/Emo_Bot_Support'),
-                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/AboutRishmika'),
+                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/Emo_Bot_industry'),
                 InlineKeyboardButton(' CREATOR', url='https://t.me/ImRishmika')
             ],
             [
-                InlineKeyboardButton('NIGHT VISSION BOT LIST', callback_data="BOT_CALLBACK")
+                InlineKeyboardButton('Emo Group help', callback_data="BOT_CALLBACK")
             ]
         ]
 
@@ -52,7 +52,7 @@ Available Commands
 /mute - mute a user
 /unmute - unmute a user
 /kick - kick users
-/listbots - all available ™Night Vission Bots"""
+/listbots - all available ™Emo Bots"""
 HELP_BUTTONS = [
 [InlineKeyboardButton('BACK', callback_data="BACK_MENU")]
 ]
