@@ -32,7 +32,7 @@
   },
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "https://github.com/RishBropromax/Emo-Group-Help-Bot/blob/main/worker.py"
         }
     ]
 }
